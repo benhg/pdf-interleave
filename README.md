@@ -16,3 +16,9 @@ This project solves just that situation.
 1. Name your two documents the same thing, but differing by _even and _odd
 2. Run the tool `pdf_interleave.py -d <document_name>`. Don't put _even or _odd, or .pdf in the document name.
 3. The output will go to `<document_name>_all.pdf`
+
+# Installation
+
+Requries `pypdf2`
+
+It's just a python script. Put it wherever you want and run it.
